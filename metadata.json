@@ -1,0 +1,6 @@
+{
+  "name": "Home With InDa",
+  "description": "A premium visual discovery destination for home-decor, interior design inspiration, curated rooms, and modern living.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
